@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "210076225778",
+    "project_id": "nekolist",
+    "storage_bucket": "nekolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210076225778:android:1991228ead875a826b406b",
+        "android_client_info": {
+          "package_name": "com.example.anime_list_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210076225778-h86iel54evshr4bhvl435geme4sipm7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anime_list_app",
+            "certificate_hash": "668821cb12d953fdd6d17979373f26b3eb3a8de1"
+          }
+        },
+        {
+          "client_id": "210076225778-0qgblufgpniob9r2smanfg9bj5h7nd3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFMlM-ATW-77rfIYka_EKFZrNyUR-vo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210076225778-0qgblufgpniob9r2smanfg9bj5h7nd3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
